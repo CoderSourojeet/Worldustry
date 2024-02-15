@@ -4,7 +4,7 @@ import glm
 import math
 
 # window resolution
-WIN_RES = glm.vec2(800, 600)
+WIN_RES = glm.vec2(1200, 900)
 
 # camera
 ASPECT_RATIO = WIN_RES.x / WIN_RES.y
