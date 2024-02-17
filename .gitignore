@@ -4,3 +4,6 @@
 # pycache
 __pycache__
 .pyc
+
+# visual studio code stuff
+.vscode
