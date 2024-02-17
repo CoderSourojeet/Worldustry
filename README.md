@@ -1,2 +1,0 @@
-# Worldustry
-worldustry game files
